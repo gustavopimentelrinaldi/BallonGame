@@ -1,13 +1,12 @@
 # BallonGame
 ```
-Fins de aprendizado,
-Sobre um jogo onde você estoura balões,
-Trocando imagem(balão cheio) por(balão furado) quando clicado...
-+ tempo por nível de dificuldade...
+Learning purposes
+About a balloon popping game
+Alternating images with an button event
 ```
-# Melhore o jogo
+# Improve the game
 ```
-Clone o repositório,
-Crie sua feature,
-dê pull request pra master :)
+Clone the repository
+create your feature
+pull request to the master branch :)
 ```
